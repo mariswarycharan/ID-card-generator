@@ -75,6 +75,3 @@ main1_image.show()
  
 # # Display edited image
 # img.show()
-
-
-summa dha brooooo!
