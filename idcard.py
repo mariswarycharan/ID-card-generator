@@ -4,8 +4,8 @@ from PIL import ImageFont
 from PIL import ImageDraw
 import PIL
 
-a = str(input("enter :"))
-main1_image = Image.open(a).convert("RGBA")
+# a = str(input("enter :"))
+main1_image = Image.open("C:\\Users\\USER\\Documents\\vs code example\\bar.png.svg").convert("RGBA")
 main1_image.show()
 # size = (1500,900)
 # ima_new = main1_image.resize(size)

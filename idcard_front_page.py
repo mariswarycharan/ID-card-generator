@@ -67,8 +67,8 @@ d1.text((10,780),"DEGREE/BRANCH :",font = sub_font,fill= (77,25,201),align=CENTE
 
 course_font = ImageFont.truetype("C:\\Users\\USER\\Downloads\\poppins\\Poppins-Medium.otf",28)
 d1.text((10,840),degree,font = course_font,fill= (0,0,0),align=CENTER)
-d1.text((88,840),"/",font = course_font,fill= (0,0,0),align=CENTER)
-d1.text((98,840),course,font = course_font ,fill= (0,0,0),align=CENTER)
+d1.text((93,840),"/",font = course_font,fill= (0,0,0),align=CENTER)
+d1.text((103,840),course,font = course_font ,fill= (0,0,0),align=CENTER)
 
 Image.Image.paste(front,logo,(20,20))
 
